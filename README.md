@@ -1,0 +1,1 @@
+This repository contains code for an interactive RPG game built using JavaScript. It serves as a hands-on project to help you learn JavaScript fundamentals while developing an engaging game experience. Explore the code, experiment with features, and enhance your programming skills in a fun and creative way! Feel free to adjust any part to better fit your needs!
